@@ -1,3 +1,5 @@
 # teaching
 
-- A repo for teaching git or other code related subjects
+- A repo for introducing  git or other code related subjects
+
+- Some text to play around with commits
