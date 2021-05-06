@@ -2,4 +2,4 @@
 
 - A repo for introducing  git or other code related subjects
 
-- Some text to play around with commits
+- Some more input to play around with commits
